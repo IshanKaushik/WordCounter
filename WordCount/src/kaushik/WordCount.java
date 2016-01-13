@@ -19,7 +19,7 @@ public class WordCount {
 	// Storing the accepted characters as Set
 	static Set<String> myAcceptedSet = new HashSet<String>(Arrays.asList(myAcceptedChars));
 
-	public static int calculateWords(String file) {
+	public int calculateWords(String file) {
 		// myword integer to count word
 		int myWords = 0;
 		BufferedReader br = null;
