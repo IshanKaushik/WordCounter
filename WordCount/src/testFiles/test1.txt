@@ -1,0 +1,2 @@
+This is a test 00 for counting words in a sentence.
+The answer is 13.
